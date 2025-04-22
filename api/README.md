@@ -34,5 +34,5 @@ A simple FastAPI-based inventory API that allows you to:
 
 1. Create a virtual environment:
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   python -m venv env
+   source venv\Scripts\activate 
